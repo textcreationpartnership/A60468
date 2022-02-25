@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true patriot's speech to the people of Rome from Sallust.</title>
+            <title>Bellum Jugurthinum. English. Selections</title>
+            <author>Sallust, 86-34 B.C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60468</idno>
+            <idno type="STC">Wing S410</idno>
+            <idno type="STC">ESTC T221168</idno>
+            <idno type="EEBO-CITATION">13551836</idno>
+            <idno type="OCLC">ocm 13551836</idno>
+            <idno type="VID">100202</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60468)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100202)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1557:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true patriot's speech to the people of Rome from Sallust.</title>
+                  <title>Bellum Jugurthinum. English. Selections</title>
+                  <author>Sallust, 86-34 B.C.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Amsterdam printed :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Contains translations of extracts from the speech of Memmius as reported in Sallust's Jugurtha. Published as a pamphlet on British politics" -- NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:100202:1"/>
+            <pb n="1" facs="tcp:100202:1"/>
+            <head>THE <hi>TRUE PATRIOT</hi>'s SPEECH TO THE People of Rome.</head>
+            <head type="sub">From <hi>SALL<g ref="char:V">Ʋ</g>ST.</hi>
+            </head>
+            <epigraph>
+               <q xml:lang="lat">
+                  <l>Indignatio &amp; Dolor Omnibus,</l>
+                  <l>Vis ad Reſiſtendum Nelli aderat.</l>
+                  <bibl>Vell. Paterc.</bibl>
+               </q>
+            </epigraph>
+            <opener>
+               <salute>ROMANS,</salute>
+            </opener>
+            <p>THE Preſent Circumtances of our Affairs, the Power of the Prevailing <hi>Faction,</hi> Your Tame Sub<g ref="char:EOLhyphen"/>miſſion, the Loſs of all Juſtice, and the Danger of Speaking Truth, are ſuch Diſcouragements, that I ſhould be Silent, as well as Others, at this Time, if my Con<g ref="char:EOLhyphen"/>cern for my Country were not above all other Conſiderations.
+<pb facs="tcp:100202:2"/>
+               <pb n="1" facs="tcp:100202:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:100202:3"/>'Tis hardly worth While, <hi>Fellow-Citizens,</hi> to put You in mind of the Indignities You have receiv'd of late Years, and the ill Treatment the Braveſt Aſſertors of Your Privileges have met with, from ſome of the Nobility, when We are now reduc'd ſo low, that a Few Great and Ill Men govern Us, whoſe Right it Is, and whoſe Chief Buſineſs it Should be, to Watch and Keep ſuch Miſcreants in Awe. However, for my Part, I have reſolv'd to make War upon this powerful and pernicious <hi>Cabal,</hi> and will uſe that Liberty, which, as a <hi>Freeman of Rome,</hi> I am legally entitled to; but 'tis in Your Power only, to make my good Endeavours effectually ſerviceable to You. I wou'd not be underſtood to excite You to any kind of Force: No; Let Us fight 'em with their own Weapons. The ſame Engines which they have always made Uſe of, to raiſe themſelves, will, I doubt not, if rightly employ'd, ev'n yet be ſufficient to pull 'em down. Not long ſince, We thought We had Reaſon to complain of the Squand'ring the Publick Money, and of the Exorbitant Riches, and Exceſſive Power, of ſome Particular Perſons; but Now, thoſe Very Perſons are ſo far from being contented to go off with Impunity, that They have agen work'd Themſelves into Power. They have their Pontificates, their Governments of Provinces, and their Tri<g ref="char:EOLhyphen"/>umphal Proceſſions: They ſtrut; They domineer; and treat Us with ſuch Scorn, and Inſclence, as if They thought it not Robbery, but an Honour, to have cheated the Commonwealth. Our Slaves, <hi>My Countrymen,</hi> Our purchas'd Slaves have Spirit enough to diſobey the unjuſt Commands of their Maſters: Shall We, that were Born Free, ſtand Still, and patiently ſuf<g ref="char:EOLhyphen"/>fer the Yoak to be put about Our Necks? But, 'pray, Let Us conſider, a little, what ſort of Men Theſe are, that have thus ſeiz'd upon the Government? Why, they are Men of Evil Principles, and Worſe Practices, Deſigning, Proud, Ra<g ref="char:EOLhyphen"/>pacious, Violent, and Unforgiving; Determin'd, by all Me<g ref="char:EOLhyphen"/>thods,
+<pb n="3" facs="tcp:100202:3"/>to proſecute their Intereſt, and poſtpone to That all Regards to Religion and Honour. And this <hi>Society,</hi> this <hi>Ca<g ref="char:EOLhyphen"/>bal,</hi> What ſhall I call it? This <hi>Iunto,</hi> are firmly and ſtrongly united, by that Wicked Tye, of having All been involv'd in the Same, or in Equal Crimes! However, if We had been as Careful to Preſerve our Liberties as They have been In<g ref="char:EOLhyphen"/>duſtrious to Wreſt 'em from Us, Our Conſtitution had not been ſo Shock'd and Unſettled as tis now; nor would ſo many great Poſts of the Commonvealth have been in the Hands of the moſt Forward, inſtead of the moſt Deſerving. Our Anceſtors ventur'd their Lives and their Fortunes, to preſerve their Privileges, and to keep up a proper Balance in the Government; And ſhall We Not ſtir One Step, Not dare to run the Leaſt Riſque, to deliver down thoſe Privi<g ref="char:EOLhyphen"/>leges to Our Poſterity, which We have receiv'd from thoſe Anceſtors? Surely, We ought the More Reſolutely to Con<g ref="char:EOLhyphen"/>tend for 'em, as 'tis More Diſhonourable to Loſe 'em, than Never to have Had 'em. But, perhaps, it may be ask'd, What is it proper for Us to do, in this Situation? Shall We addreſs? Shall We impeach? I will not take upon Me to preſcribe to You a Particular Method of Proceeding; but I will be bold to ſay, That Some Stand ought Immediately to be made, Some Stop, if poſſible, to be put, to the grow<g ref="char:EOLhyphen"/>ing Tyranny of this <hi>Iunto;</hi> that the Commons of <hi>Rome</hi> may never have This Reproach, That They, who us'd to Oppoſe and Condemn the Leaſt Irregular Step, or Encroachment, ev'n in their <hi>Kings,</hi> now Lie down, Eaſy and Satisfy'd, un<g ref="char:EOLhyphen"/>der the Heavy'ſt, and Moſt Arbitrary Oppreſſion, of <hi>Five</hi> or Six of their Own <hi>Fellow-Subjects!</hi> If We have not Spirit enough to rowze Ourſelves upon this important Occaſion, Our Condition is very Wretched, and almoſt Deſperate; For, Whilſt We are ſubdu'd at Home, faſter than We con<g ref="char:EOLhyphen"/>quer Abroad; Whilſt no Man is allow'd a Place in the <hi>Se<g ref="char:EOLhyphen"/>nate-Houſe,</hi>
+               <pb n="4" facs="tcp:100202:4"/>that is not thought, by Theſe Maſters, Leſs likely to Defend the Peoples Liberties, than to Give up his Own; Whilſt hardly any One can be ſecure from Puniſhment, that does not deſerve it; Whilſt we give ſuch Immenſe Taxes, without Appropriation; and let 'em be diſtributed, without Account; Whilſt We have not Courage enough ev'n to own our Fears; Whilſt We are forced to magnify Succeſsful Blun<g ref="char:EOLhyphen"/>ders: In a Word, Whiſt we laviſh our Treaſure, and huſ<g ref="char:EOLhyphen"/>band the War; a Man may venture to propheſy, without being a <hi>Conjurer,</hi> That, unleſs the Gods are pleas'd to work a Miracle for Us at Home, as they have done Many Abroad, the Time is not far off, in which this Ancient and Noble Frame of Government will be Totally demoliſh'd; and We, that have been ſo often <hi>Conquerors,</hi> ſhall be no longer <hi>Free<g ref="char:EOLhyphen"/>men.</hi>
+            </p>
+            <closer>Dixi <signed>C. MEMMIUS.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Amſterdam:</hi> Printed in the Year 1656.</p>
+            <pb facs="tcp:100202:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
